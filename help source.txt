@@ -1,0 +1,3 @@
+help -> Insatll new software -> http://eclipse-cs.sf.net/update/ - скачиваем  и устанавлмваем Checkstyle плагин.
+
+
