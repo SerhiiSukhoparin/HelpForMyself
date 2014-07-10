@@ -1,3 +1,10 @@
 help -> Insatll new software -> http://eclipse-cs.sf.net/update/ - скачиваем  и устанавлмваем Checkstyle плагин.
 
 
+Control-Shift-L - список горячих клавиш eclipse
+
+
+windows -> preferences -> java -> editor -> templates - редактор шаблонов и шоткатов
+
+
+Project/Properties/JavaBuildPath/Libraries/AddJars - добавляем библиотеку
